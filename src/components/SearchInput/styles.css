@@ -1,0 +1,11 @@
+.container-input {
+    display: flex;
+    justify-content: center;
+}
+
+.input-search {
+    font-size: 1.4em;
+    outline: none;
+    margin-bottom: 1em;
+    padding: .3em;
+}

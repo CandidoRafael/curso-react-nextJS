@@ -1,0 +1,12 @@
+.btn {
+    color: white;
+    background-color: darkblue;
+    border: none;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.btn:disabled {
+    background-color: #919191;
+    cursor: not-allowed;
+}
